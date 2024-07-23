@@ -9,7 +9,7 @@ A user-friendly calculator app crafted with HTML, CSS, and JavaScript for quick 
 
 ## Demo
 
-You can check out the live demo [here](#). *(Add your demo link here)*
+You can check out the live demo [here](https://ayushh201.github.io/calculator/).
 
 ## Installation
 
